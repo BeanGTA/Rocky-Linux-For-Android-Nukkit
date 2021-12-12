@@ -17,4 +17,4 @@ What does Rocky Linux have?
 
 👌 SSH And VNC (Full)
 
-[[Screenshot_20211212-050544_VNC_Viewer.png]]
+<img "Screenshot_20211212-050544_VNC_Viewer.png">
