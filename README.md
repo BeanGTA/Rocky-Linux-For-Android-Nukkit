@@ -55,4 +55,6 @@ After successfully changing the password. Next choose "Configure". To authentica
 
 <a href="https://ibb.co/QkV6WP7"><img src="https://i.ibb.co/42Ljb8w/Capture-2021-12-12-09-27-15.jpg" alt="Capture-2021-12-12-09-27-15" border="0"></a>
 
+It shows <deploy is complete
+
 Good luck 😁
