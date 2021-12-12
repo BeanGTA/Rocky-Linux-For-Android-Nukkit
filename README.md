@@ -57,4 +57,6 @@ After successfully changing the password. Next choose "Configure". To authentica
 
 It shows <deploy is complete
 
+Click "Start" to start using Rocky Linux
+
 Good luck 😁
