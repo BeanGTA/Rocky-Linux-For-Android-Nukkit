@@ -23,4 +23,19 @@ What does Rocky Linux have?
 
 ![alt text](https://i.ibb.co/qmX2hw2/Screenshot-20211212-050544-VNC-Viewer.png)
 
-VNC Access: localhost
+VNC Access: localhost:5900
+
+SSH Access: localhost:22
+
+
+
+
+How to Install:
+
+Copy the downloaded File to the internal storage
+
+Then go to the Linux Deploy Apk
+
+Select the 3 dots and then select "Installed"
+
+<a href="https://ibb.co/6Pz2f0r"><img src="https://i.ibb.co/2txwf3W/Capture-2021-12-12-09-50-29.jpg" alt="Capture-2021-12-12-09-50-29" border="0"></a>
