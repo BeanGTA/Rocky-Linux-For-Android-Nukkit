@@ -36,6 +36,23 @@ Copy the downloaded File to the internal storage
 
 Then go to the Linux Deploy Apk
 
-Select the 3 dots and then select "Installed"
+Select the 3 dots and then select "Install"
 
 <a href="https://ibb.co/6Pz2f0r"><img src="https://i.ibb.co/2txwf3W/Capture-2021-12-12-09-50-29.jpg" alt="Capture-2021-12-12-09-50-29" border="0"></a>
+
+Account: root
+Password: nukkit
+
+Note: Don't rename the account if you don't want to get error
+You can change the password
+
+How to Change Password:
+Select the settings icon. Then search to where it says "Password" to change the password
+
+<a href="https://ibb.co/jzDSLf3"><img src="https://i.ibb.co/m043HTh/Capture-2021-12-12-10-10-11.jpg" alt="Capture-2021-12-12-10-10-11" border="0"></a>
+
+After successfully changing the password. Next choose "Configure". To authenticate new passwords for VNC and SSH
+
+<a href="https://ibb.co/QkV6WP7"><img src="https://i.ibb.co/42Ljb8w/Capture-2021-12-12-09-27-15.jpg" alt="Capture-2021-12-12-09-27-15" border="0"></a>
+
+Good luck 😁
